@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+.btn{
+	background-color: #372727;
+}
+#about{
+	background-color:#514E4F;
+	margin: 0;
+}
+#about h1{
+	margin-top:90px;
+	font-size: 40px;
+	color:#FFFFFF;
+}
+#about p{
+	color: #C6C6C6;
+	font-size: 13px;
+}
+#about h4{
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-size: 14px;
+	margin-left: 50px;
+}
+#package {
+	margin-top: 60px;
+	text-align: left;
+		
+}	
+#package h1{
+	text-transform: uppercase;
+	margin-top: 30px;
+	font-size: 40px;
+}
+#package h4{
+	text-transform: uppercase;
+	font-size: 14px;
+	margin-left: 50px;
+}
+#package p{
+	font-size: 13px;
+	text-align: left;
+}
+#services{
+	text-align: center;
+	margin-top: 10px;
+}
+#services h1{
+	text-transform: uppercase;
+	margin-top: 30px;
+	font-size: 40px;
+}
+#services p{
+	font-size: 13px;
+}
+#product{
+	background-color:#EDD9D9;
+}
+#product h1{
+	text-transform: uppercase;
+	margin-top: 100px;
+	font-size: 39px;
+}
+#product p{
+	font-size: 13px;
+	text-align: left;
+}
+#product h4{
+	text-transform: uppercase;
+	font-size: 14px;
+	margin-left: 50px;
+}
+#testimonio{
+	text-align: center;
+}
+#testimonio i{
+	font-size: 25px;
+	text-align: center;
+	margin-top: 50px;
+}
+#testimonio p{
+	font-size:18px;
+}
+#contact{
+	margin-top: 40px;
+}
+#contact i{
+	font-size: 40px;
+	margin-top: 20px;
+}
